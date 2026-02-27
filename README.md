@@ -11,7 +11,7 @@ Built with modern UI principles, smooth hover effects, and clean structured layo
 ![Homepage](https://github.com/Gagansoni485/frontend-Design/blob/main/Screenshot%202026-02-27%20131037.png?raw=true)
 
 ### Services Section
-![Services](./assets/services.png)
+![Services](https://github.com/Gagansoni485/frontend-Design/blob/main/Screenshot%202026-02-27%20131108.png?raw=true)
 
 > Place your screenshots inside an `assets` folder in the root directory.
 
