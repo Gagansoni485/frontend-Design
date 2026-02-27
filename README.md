@@ -8,7 +8,7 @@ Built with modern UI principles, smooth hover effects, and clean structured layo
 ## 🖼️ Preview
 
 ### Homepage
-![Homepage](./assets/homepage.png)
+![Homepage](https://github.com/Gagansoni485/frontend-Design/blob/main/Screenshot%202026-02-27%20131037.png?raw=true)
 
 ### Services Section
 ![Services](./assets/services.png)
